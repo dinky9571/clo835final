@@ -4,7 +4,6 @@ metadata:
   name: config-bgimage
   namespace: final
 data:
-  bg-image.file: 
     bg_image: https://clo835.s3.amazonaws.com/bgimage1.jpg
 
 
